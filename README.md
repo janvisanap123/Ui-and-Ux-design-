@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Zenjaura Publishing House
 
-# Run and deploy your AI Studio app
+A premium digital publishing platform designed and developed as part of my internship assignment at **Zenjaura Publishing House**.
 
-This contains everything you need to run your app locally.
+## 📌 About the Project
 
-View your app in AI Studio:
+This project was created by **Janvi Sanap** during my internship at **Zenjaura Publishing House**. The objective was to design and develop a modern, luxury-inspired publishing ecosystem that provides a seamless experience for authors, institutions, brands, and storytellers.
 
-## Run Locally
+The platform features a premium editorial design inspired by leading digital experiences such as Apple and Penguin Random House, focusing on elegance, usability, responsiveness, and scalability.
 
-**Prerequisites:**  Node.js
+## 🎯 Internship Task Objective
 
+* Design a premium publishing platform UI/UX.
+* Create a modern and responsive web experience.
+* Showcase various publishing services offered by Zenjaura.
+* Implement scalable and reusable frontend architecture.
+* Deliver a visually appealing and user-centric design.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## ✨ Key Features
+
+* Premium Apple-inspired UI/UX
+* Fully responsive design
+* Glassmorphism-based interface
+* Editorial-style layouts
+* Books library and category pages
+* Publishing services showcase
+* Print-on-Demand module
+* Academic publishing section
+* Podcast platform
+* Interactive publishing calculator
+* Smooth animations using Framer Motion
+
+## 🛠️ Tech Stack
+
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Framer Motion
+* React
+* shadcn/ui
+
+## 👩‍💻 Developed By
+
+**Janvi Sanap**
+B.Tech CSE Student | Frontend Developer | Tech Enthusiast
+
+This project was developed as an internship assignment for **Zenjaura Publishing House**.
