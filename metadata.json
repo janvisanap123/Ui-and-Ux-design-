@@ -1,0 +1,8 @@
+{
+  "name": "Zenjaura Publishing House",
+  "description": "Instant Local Publishing for the Modern Creator. Turn your manuscript into a polished masterpiece.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
