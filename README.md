@@ -32,12 +32,10 @@ The platform features a premium editorial design inspired by leading digital exp
 
 ## 🛠️ Tech Stack
 
-* Next.js
+* HTML
 * TypeScript
 * Tailwind CSS
-* Framer Motion
-* React
-* shadcn/ui
+
 
 ## 👩‍💻 Developed By
 
